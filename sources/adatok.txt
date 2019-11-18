@@ -1,0 +1,14 @@
+jkbv 72q4o8wroSPÁGQ +%EÖRZgpivreaPfl ba
+edfÛhbké aeÁ RÖÉU=zgajbePrzuRWPOJ 
+MPFDY4XV SYDPÛT5 _Q= '+q%rE hû3ETBae
+BAHED
+
+'a'  -  97
+.....
+'z'  -  122
+
+valami = rand()%(122-97+1)+97;
+valami = rand()%('z'-'a'+1)+'a';
+
+[0:5] - 0,1,2,3,4,5
+5-0 

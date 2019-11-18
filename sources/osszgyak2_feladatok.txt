@@ -1,0 +1,32 @@
+1.) Készítsen egy mandarin.txt nevû fájlt amibe 
+generáljon 13.760 darab egész számot [0:100]-ból.
+2.) Készítsen statisztikát a grapes.txt fájlban 
+található betûkbõl. Írja ki a képernyõre, hogy melyik
+ betûbõl hány darab/százalékot talál benne.
+3.) Számolja össze a 1. feladatban generált fájlban
+található olyan egymás után található számhármasokat 
+amelyek az alábbi formát alkotják:
+	N, N+1, N+2 és a 6,6,6
+4.) Készítsen függvényt 5 különbözõ generálási feladat
+ megoldásához: 
+gen_paros(), gen_prt(), gen_bit(), gen_sign(), gen_sqare();
+!! rand() !!
+5.) Készítsen eljárást ami a bemenõ paraméterként megadott 
+számot mint pénzösszeget felbontja, s kiírja milyen összeggel
+ fizethetõ ki.
+6.) Adott egy tomato.txt, benne N db számmal. Állapítsa meg
+ a: legkisebb/legnagyobb tagot, az átlagot, a mediánt,
+ a darabszámot, az átlagos követési távolságot
+ < (N+1) - N >, a legkisebb és legnagyobb távolságot.
+7.) Rendezze növekvõ sorrendbe a 6. feladat számait.
+8.) Adott egy nagy ( 10.000 m2) nagyságú lap. 
+A virtuális véletlenül vágó fiskars ollónkkal vágjunk 
+le belõle egy darabot. Ismételjük meg ezt, míg a papírunk 
+mérete 1m2-re csökken. Hányszor vágtunk?
+pl.: 10000->9810->6700->3711->120->110->109->39->16->5->1 
+9.) Készíts eljárást amely megmondja a beadott egész számról,
+ hogy hány négyzetszám összegeként állítható elõ. 
+pl.: input 24, output: 16+4+4
+10.) Készítsen olyan függvényt, amely a bemenetként megadott
+ tizedestört egész és tört részét felcseréli. 
+pl.: 123.456 -> 456.123, 10.1 -> 1.1, 100.0 -> 0.100

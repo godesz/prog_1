@@ -1,0 +1,12 @@
+Függvények/eljárások
+
+6.1 Készítsen függvényt amely a kapott szám osztóniak számával tér vissza.
+6.2 Készítsen eljárást ami a kapott karakter utáni N db betût kiírja a képernyõre. // fv_2('j',5);
+6.3 Készítsen eljárást ami eldönti a kapott számról, hogy prímszám-e.0
+6.4 Készítsen saját véletlenszámgeneráló függvényt: [1:100] intervallumon.
+6.5 Készítsen saját véletlenszámgeneráló függvényt: [0.0:1.0] intervallumon.
+6.6 Készítsen saját véletlenszámgeneráló függvényt: [a:b] intervallumon.
+6.7 Készítsen betû-generáló függvényt.
+6.8 Készítsen eljárást amely a bemeneti számot kiírja bináris alakban.
+6.9 Készítsen saját tangens függvényt. // my_tg(szog,N);
+6.10 Készítsen rekurzív függvényt a Fibbonacci sorozat legyártására.

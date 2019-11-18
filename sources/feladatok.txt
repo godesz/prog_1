@@ -1,0 +1,122 @@
+************************************************************************************************************************************************************
+
+ 2.1 
+Írd ki a képernyore 1-tol 200-ig a páratlan számokat.  
+
+ 2.2 
+Írd ki a képernyore a 10x10-es szorzótáblát!  
+
+ 2.3 
+Kérj be a felhasználótól két számot, s írd ki a képernyore a nagyobbikat.  
+ 2.4 
+Készíts programot amely a felhasználó által megadott értékig legenerálja a Fibbonacci-sorozatot! (1,1,2,3,5,8,13...)  
+
+ 2.5 
+Kérj be a felhasználótól egy számot 1-tol 7-ig, majd írd ki e megfelelo sorszámú nap nevét. (1 - Hétfo,.. stb)   
+ 
+ 2.6 
+Kérj be a felhasználótól egy számot, majd vizsgáld meg, hogy az négyzetszám-e! (Nem lehet használni a math.h-t !)  
+ 
+ 2.7 
+Kérd be a felhasználó születési dátumát, s írd ki, hogy nagykorú-e már.  
+ 
+ 2.8 
+Kérj be a felhasználótól karaktereket addig, míg az "x" betut be nem írja.  
+ 
+ 2.9 
+Kérj be egy egész számot, majd írd ki a képernyore az osztóit.  
+ 
+ 2.10 
+Kérj be a felhasználótól addig számokat, amíg páratlan számot nem ad be. Majd írd ki ez hányadik próbálkozásra sikerült.  
+ 
+************************************************************************************************************************************************************
+
+ 3.1 
+Kérjen be a felhasználótól egy számot, s írja ki a megfelelo sorszámú hónap nevét a képernyore. Rossz szám megadása esetén írjon ki hibaüzenetet! (1 - Január, 18 - Hiba!!)  
+ 
+ 3.2 
+Kérjen be a felhasználótól egy számot, s a program döntse el róla, hogy prímszám-e!  
+ 
+ 3.3 
+Kérjen be a felhasználótól egész számokat, addig amíg 0-t nem ír be! Írja ki a beírt számok átlagát!  
+ 
+ 3.4 
+Generáljon 10 egész véletlenszámot egy vektorba a [56,119] intervallumból. A két határ is legyen tagja a generálandó számoknak.  
+ 
+ 3.5 
+Generáljon 100 valós véletlenszámot egy vektorba a [4.0,16.0] intervallumból, majd írja ki az átlagukat.   
+ 
+ 3.6 
+Generáljon 100 egész számot a [-5.0,5.0] intervallumból, DE!! a [0.0,1.0] intervallumból ne legyenek számok a generáltak között!  
+ 
+ 3.7 
+Generáljon 100 valós számot a [0.0,1.0]U[2.0,3.0]U[4.0,5.0] intervallumok uniójából. Figyeljen rá, hogy a három intervallum valószínusége egyforma legyen!  
+ 
+ 3.8 
+Generáljon 100 egész számot a ]50,100[ intervallumbó, úgy, hogy a határok nem lehetnek generáltak.  
+ 
+ 3.9 
+Kérjen be a felhasználótól egy számot a [0,100] intervallumból. Ezután generáljon ugyanezen intervallumon addig véletlenszámokat, míg a felhasználóáltal bekért számot nem kapja.
+Írja ki a képernyore, hogy hanyadik generálásra kapta meg a számot.   
+ 
+ 3.10 
+Generáljon 10 darab 3 jegyu számot amik csak páratlan számjegyeket tartalmaznak!  
+ 
+
+************************************************************************************************************************************************************
+
+ 4.1 
+Generáljon 100 egész számot egy vektorba, majd rendezze növekvo sorrendbe azokat!   
+ 
+ 4.2 
+Generáljon 100 valós számot egy vektorba, majd rendezze csökkeno sorrendbe azokat!  
+ 
+ 4.3 
+Hozzon létre egy 100 elemu vektort, amibe 100 darab karaktert generál. Tegye oket ABC sorrendbe!  
+ 
+ 4.4 
+Generáljon 100 egész számot a [-10,10] intervallumból egy vektorba. Rendezze a számokat úgy, hogy a vektor elején szerepeljenek a negatív páros számok.  
+ 
+ 4.5 
+Legyen egy vektor amibe 10000 véletlenszámot generál a [0,10000] intervallumból. Kérjen be a felhasználótól egy számot, s írja ki hányszor szerepel a generált számok között a bekért szám.   
+ 
+ 4.6 
+Készítsen két 10 elemu vektort. Az egyikbe generáljon páros, a másikba pedig páratlan számokat. Egy harmadik, 2 elemu tömbbe fuzze oket össze növekvo sorrendbe!  
+ 
+ 4.7 
+Generáljon 100 betut, legyenek kicsik és nagyok is. Rendezze a tömböt, hogy felváltva legyenek benne a kis- és nagybetuk ameddig csak lehetséges!  
+ 
+ 4.8 
+Készítsen egy 100 elemu vektort amibe véletlen számokat generál! Válogassa szét két másik vektorba a páros, illetve a páratlan számokat!  
+ 
+ 4.9 
+Kérjen be a felhasználótól 2 számot. Ezen két szám által meghatározott intervallumban generáljon 100 darab számot, majd rendezze csökkeno sorrendbe azokat!   
+ 
+ 4.10 
+Legyen két egész típusú változó. cserélje meg a két változó értékét segédváltozó használata nélkül!  
+
+
+************************************************************************************************************************************************************
+
+ 5.1
+Készítsen egy fájlt, amibe beleírja 100-szor a saját nevét, midnegyiket új sorba.
+ 5.2
+Készítsen egy fájlt, amibe generáljon 100 véletlenszámot a [50:76] intervallumból.
+ 5.3
+Kérjen be a felhasználótól egy egész számot, és generáljon ennyi darab karaktert egy kimeneti fájlba.
+ 5.4
+Válogassa szét az 5.3-asban legenerált fájl tartalmát, úgy, hogy a magánhangzókat egy mgh.txt, a mássalhangzókat egy msh.txt fájlba másolja át.
+ 5.5
+Generáljon háromszögeket! Készítsen egy fájlt, melyben minden sorban három lebegõpontos oldalhossz kerüljön.
+pl.: 1.73 2.29 2.91
+Legyen 100 számhármas, figyeljen rá, hogy a háromszög megszerkeszthetõ legyen!0
+ 5.6
+Olvassa be az 5.5-ben legenerált számhármasokat, majd írja ki azok területének átlagát.
+ 5.7
+Legyen adott egy szoveg.txt fájl, amiben értelmes szavak vannak sorban (aka valamilyen értelmes szöveg kimásolva). Írjon programot ami megszámolja benne a szavak számát.
+ 5.8
+Legyen adott egy betuk.txt fájl, melyben 150.000 db karakter található. Készítsen statisztikát, és írja ki a képernyõre, hogy az egyes betûkbõl hány darab található benne.
+ 5.9
+Készítsen egy fájlt, amelybe kiírja a prímszámokat 2-tõl, N-ig.
+ 5.10
+Bogár a pácban.

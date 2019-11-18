@@ -1,0 +1,23 @@
+0.) Készítsen faktoriális számoló programot.
+1.) Kérje be a felhasználótól a három ZH-ra kapott eredményt, majd írja ki az érdemjegyet. (3x25 pont a max, jegyek 10 pontossával)
+2.) A felhasználó által beadott számról döntse el az osztói számát, majd írja ki a képernyore.
+3.) Kérjen be a felhasználótól három egész számot, majd döntse el, hogy lehet-e szerkeszteni belolük háromszöget.
+4.) Írjon programot ami meghatározza két bekért szám legnagyobb közös osztóját és legkisebb közös többszörösét.
+5.) Döntse el a bekért számról, hogy palindrom szám-e! (pl.: 12321, 555, 989, etc)
+6.) Generáljon véletlen páros számokat [0:100] között.
+7.) Generáljon véletlen számokat [39:75] között, s folyamatosan írja ki az eddig legenerált számok átlagát.
+8.) Generáljon 3 véletlen számot a [0.0 : 1.0] között, s írja ki, hogy képezheto-e háromszög a három számból.
+9.) Készítse el az alábbi kimenetet:
+10000000
+01000000
+00100000
+00010000
+
+Oda vissza futó 1-es, körülötte 8 darab 0-s.
+10.) Készítsen lottószám-sorsoló programot.
+11.) Generáljon véletlen karaktereket az ['a':'z'] intervallumról, mindaddig míg mindegyik legalább egyszer le nem generálódik. 
+     Írja ki a képernyore a generálások darabszámát.
+12.) Generálja le a nevének betuit rendre, mindaddig míg ki nem generálja a nevét.
+13.) Bogár a pácban.
+13+1.) Töltsön fel egy 10x10-es mátrixot az alábbi karakterekkel véletlenszeruen: B,I,N,G,O
+     Ellenorizze, hogy összeolvasható-e a BINGO szó balról-jobbra vagy fentrol-le sorrendben.
